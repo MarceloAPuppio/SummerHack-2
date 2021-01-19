@@ -122,7 +122,6 @@ body {
 }
 .splash__audio__reproductor {
   filter: drop-shadow(palegreen 2px 2px 5px);
-  flex-basis: 20%;
   margin: 20px auto;
 }
 .splash__audio__reproductor:focus {
